@@ -1,183 +1,45 @@
-<div align="center">
+# 💫 Hi 👋, I'm Harshal Galande
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-# ⚡ HARSHAL GALANDE ⚡
+Email Me 👉 ✉️ **Harshalgalande9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Linux+Power+User;Building+Systems+That+Scale;90+Days+DevOps+Challenge"/>
+- 🔭 **I’m currently working on:** Jenkins pipelines
+- 🌱 **I’m currently learning:** DevOps Fundamentals
+- 👯 **I’m looking to collaborate on:** 
+- 🤔 **I’m looking for help with:** 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Harshalgalande9@gmail.com
+- 😄 **Pronouns:** 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAC/luffy-anime.gif" width="850"/>
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harshalx07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshalx07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshal-galande/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalgalande9@gmail.com) 
 
----
-
-## 🚨 SYSTEM STATUS
-
-```diff
-+ STATUS      : ONLINE
-+ LOCATION    : INDIA
-+ ROLE        : DEVOPS ENGINEER
-+ FOCUS       : CLOUD | AUTOMATION | CONTAINERS
-+ LEARNING    : AWS | KUBERNETES | JENKINS
-+ UPTIME      : ALWAYS IMPROVING
-```
-
----
-
-## 💻 LIVE TERMINAL
-
-```bash
-harshal@production:~$ whoami
-
-DevOps Engineer
-
-harshal@production:~$ current-mission
-
-Complete 90 Days DevOps Challenge
-
-harshal@production:~$ current-stack
-
-Linux
-Git
-Bash
-Docker
-Kubernetes
-AWS
-Jenkins
-
-harshal@production:~$ mindset
-
-Discipline > Motivation
-```
-
----
-
-## ⚔️ DEVOPS ARSENAL
+<!-- Snake Game Repo View -->
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,aws,jenkins,ansible,nginx,prometheus,grafana,python"/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshalx07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshalx07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalx07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔥 CURRENT OBJECTIVES
 
-<table>
-<tr>
-<td width="50%">
 
-### 🎯 2026 Goals
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- Master Kubernetes
-- Deploy Production Apps
-- Learn Terraform
-- Improve AWS Skills
-- Contribute to Open Source
-- Build Real Infrastructure
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/itachi-uchiha.gif"/>
-
-</td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harshalx07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=harshalx07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ☁️ CLOUD JOURNEY
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshalx07&theme=tokyonight"/>
-
----
-
-## 📈 ACTIVITY GRAPH
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshalx07&theme=tokyo-night"/>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshalx07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalx07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 STREAK
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshalx07&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshalx07&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🎌 ENGINEER'S CODE
-
-> Build systems.
->
-> Automate everything possible.
->
-> Learn relentlessly.
->
-> Stay consistent.
->
-> Let the work speak.
-
----
-
-## 🌐 CONNECT
-
-<div align="center">
-
-<a href="mailto:harshalgalande9@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harshal-galande/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/harshalx07">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ BUILD • AUTOMATE • DEPLOY • REPEAT ⚡
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> this is my current readme improve it and use something like this make it a top 1 percent readme
