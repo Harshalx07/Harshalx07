@@ -1,56 +1,57 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E293B,100:3B82F6&text=Harshal%20Galande&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40"/>
+# ⚡ HARSHAL GALANDE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Linux+Enthusiast;Automation+First;Building+In+Public"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Linux+Power+User;Building+Systems+That+Scale;90+Days+DevOps+Challenge"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img width="800" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-</div>
-
-# 👨‍💻 About Me
-
-I'm Harshal.
-
-A Cloud & DevOps Engineer focused on building practical skills through hands-on projects.
-
-Currently working on:
-
-🚀 90 Days DevOps Challenge
-
-🐧 Linux Administration
-
-⚙️ Shell Scripting
-
-🔄 CI/CD Pipelines
-
-🐳 Docker
-
-☸️ Kubernetes
-
-☁️ AWS
-
----
-
-# ⚡ Current Mission
-
-> Learn deeply. Build consistently. Document everything.
-
-<div align="center">
-
-<img width="600" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
+<img src="https://media.tenor.com/DimzPZMypFcAAAAC/luffy-anime.gif" width="850"/>
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+## 🚨 SYSTEM STATUS
+
+```diff
++ STATUS      : ONLINE
++ LOCATION    : INDIA
++ ROLE        : DEVOPS ENGINEER
++ FOCUS       : CLOUD | AUTOMATION | CONTAINERS
++ LEARNING    : AWS | KUBERNETES | JENKINS
++ UPTIME      : ALWAYS IMPROVING
+```
+
+---
+
+## 💻 LIVE TERMINAL
+
+```bash
+harshal@production:~$ whoami
+
+DevOps Engineer
+
+harshal@production:~$ current-mission
+
+Complete 90 Days DevOps Challenge
+
+harshal@production:~$ current-stack
+
+Linux
+Git
+Bash
+Docker
+Kubernetes
+AWS
+Jenkins
+
+harshal@production:~$ mindset
+
+Discipline > Motivation
+```
+
+---
+
+## ⚔️ DEVOPS ARSENAL
 
 <div align="center">
 
@@ -60,54 +61,46 @@ Currently working on:
 
 ---
 
-# 💻 Terminal
+## 🔥 CURRENT OBJECTIVES
 
-```bash
-$ whoami
+<table>
+<tr>
+<td width="50%">
 
-Harshal Galande
+### 🎯 2026 Goals
 
-$ role
+- Master Kubernetes
+- Deploy Production Apps
+- Learn Terraform
+- Improve AWS Skills
+- Contribute to Open Source
+- Build Real Infrastructure
 
-Cloud Engineer
-DevOps Engineer
+</td>
 
-$ current_focus
+<td width="50%">
 
-Linux
-Docker
-Kubernetes
-AWS
-Jenkins
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/itachi-uchiha.gif"/>
 
-$ status
-
-Building production-ready skills
-```
-
----
-
-# 🔥 90 Days DevOps Challenge
-
-<div align="center">
-
-<img width="700" src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif">
-
-</div>
-
-Every day I learn, build, document, and push code.
-
-My GitHub is a public record of that journey.
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contribution Graph
+## ☁️ CLOUD JOURNEY
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshalx07&theme=tokyonight"/>
+
+---
+
+## 📈 ACTIVITY GRAPH
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshalx07&theme=tokyo-night"/>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -119,17 +112,17 @@ My GitHub is a public record of that journey.
 
 ---
 
-# 🔥 Streak
+## 🔥 STREAK
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalx07&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harshalx07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🏆 TROPHIES
 
 <div align="center">
 
@@ -139,7 +132,7 @@ My GitHub is a public record of that journey.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -149,38 +142,34 @@ My GitHub is a public record of that journey.
 
 ---
 
-# 🎌 Engineer Mindset
+## 🎌 ENGINEER'S CODE
 
-<div align="center">
-
-<img width="700" src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif">
-
-</div>
-
-### Principles
-
-- Automate repetitive work
-- Learn by building
-- Stay consistent
-- Keep improving
-- Share knowledge
+> Build systems.
+>
+> Automate everything possible.
+>
+> Learn relentlessly.
+>
+> Stay consistent.
+>
+> Let the work speak.
 
 ---
 
-# 🌐 Connect
+## 🌐 CONNECT
 
 <div align="center">
 
 <a href="mailto:harshalgalande9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshal-galande/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/harshalx07">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -189,6 +178,6 @@ My GitHub is a public record of that journey.
 
 <div align="center">
 
-## ⚡ BUILD • AUTOMATE • DEPLOY ⚡
+### ⚡ BUILD • AUTOMATE • DEPLOY • REPEAT ⚡
 
 </div>
